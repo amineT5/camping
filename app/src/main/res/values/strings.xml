@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">camping</string>
+    <string name="textCaption">Places to visit in tunisia</string>
+    <string name="buttonCaption">Next</string>
+</resources>
